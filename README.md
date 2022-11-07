@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Welcome to Mahadi profile &nbsp;
+  &nbsp; WELCOME TO SAKIB profile &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
@@ -53,7 +53,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [IZT ARIYAN SAKIB](https://www.facebook.com/BD-Termux-Tutorialシ-100443515499094/)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [IZT ARIYAN SAKIB](https://www.facebook.com/ITZ ARIYAN SAKIBシ-100443515499094/)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -95,12 +95,12 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/MAHADI-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=SAKIB-143&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="ARIYAN AHMMED SAKIB's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/MAHADI-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKIB-404CYBER&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/SAKIB-404CYBER/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=SAKIB-143&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="ARIYAN AHMMED SAKIB's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/SAKIB-404CYBER/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKIB-404CYBER&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=SAKIB-404CYBER&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mahadi's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=SAKIB-404CYBER&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="SAKIB's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
@@ -114,34 +114,34 @@
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/MAHADI-143/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=SAKIB-404CYBER&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SAKIB-404CYBER/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=SAKIB-404CYBER&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </a>
-<a href="https://github.com/MAHADI-143/Mahadi-Pro"><img title="Mahadi-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=Mahadi-Pro&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404CYBER/SAKIB-Pro"><img title="Mahadi-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=SAKIB-Pro&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/MAHADI-143/2009"><img title="2009" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=2009&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404CYBER/2009"><img title="2009" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=2009&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/MAHADI-143/Mahadi-2k9"><img title="Mahadi-2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=Mahadi-2k9&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404CYBER/SAKIB-2k9"><img title="SAKIB-2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=SAKIB-2k9&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/MAHADI-143/NUMBER-PK"><img title="NUMBER-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=NUMBER-PK&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404CYBER/NUMBER-PK"><img title="NUMBER-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=NUMBER-PK&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/MAHADI-143/Mahadi-Afg"><img title="Mahadi-Afg" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=Mahadi-Afg&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404CYBER/Mahadi-Afg"><img title="SAKIB-Afg" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=Mahadi-Afg&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/MAHADI-143/World-FD"><img title="World-FD" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=World-FD&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404CYBER/World-FD"><img title="World-FD" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=World-FD&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/MAHADI-143/Mahadi-3x"><img title="Mahadi-3x" src="https://github-readme-stats.vercel.app/api/pin/?username=RAKIB-404CYBER&repo=SAKIB-3x&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404XYBER/SAKIB-3x"><img title="SAKIB-3x" src="https://github-readme-stats.vercel.app/api/pin/?username=RAKIB-404CYBER&repo=SAKIB-3x&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/MAHADI-143/FRIEND-CHECKER"><img title="FRIEND-CHECKER" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=FRIEND-CHECKER&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404CYBER/FRIEND-CHECKER"><img title="FRIEND-CHECKER" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=FRIEND-CHECKER&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/MAHADI-143/HIGH-SPEED"><img title="HIGH-SPEED" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=HIGH-SPEED&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404CYBER/HIGH-SPEED"><img title="HIGH-SPEED" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=HIGH-SPEED&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/MAHADI-143/CHECK"><img title="CHECK" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=CHECK&theme=vision-friendly-dark">
+<a href="https://github.com/SAKIB-404CYBER/CHECK"><img title="CHECK" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=CHECK&theme=vision-friendly-dark">
