@@ -16,11 +16,11 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAKIB-404CYBER&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAKIB-404CYBER&label=Profile%20views&color=eb4d3d&style=flat-square" alt="SAKIB-404CYBER" /> </p>
 </i></b></h3>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/SAKIB-404CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&theme=monokai"></a>
+<a href="https://github.com/SAKIB-404CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=SAKIB-404CYBER&theme=monokai"></a>
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
